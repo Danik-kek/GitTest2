@@ -1,0 +1,24 @@
+commit 17729658c143734dd26a619864ea9ca17841d563
+Author: Danik-kek <danik-kek@users.noreply.github.com>
+Date:   Thu Sep 3 09:54:52 2026 +0300
+
+    add test : New test file
+
+commit 9ea455acb965db3cef1d94d8f4221c4bc0c74874
+Author: Danik-kek <danik-kek@users.noreply.github.com>
+Date:   Thu Sep 3 09:53:17 2026 +0300
+
+    Update READme: with README NEW string
+
+commit 1ee88de96e5231c2ac149ca95967f24b7f6cdbee
+Author: Danik-kek <danik-kek@users.noreply.github.com>
+Date:   Thu Sep 3 09:36:40 2026 +0300
+
+    Inastall commit: added README.txt
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	repo1_report.txt
+	test/
+
+nothing added to commit but untracked files present (use "git add" to track)
