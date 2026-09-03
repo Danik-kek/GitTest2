@@ -1,0 +1,20 @@
+commit 0a71cab3683776e3964e9d3555a465ca54d418fb
+Author: Danik-kek <danik-kek@users.noreply.github.com>
+Date:   Thu Sep 3 10:29:57 2026 +0300
+
+    Выполнена самостоятельная работа
+
+commit 5c3f686a41a1d8b786cc7d7593b332dc73c5021d
+Author: Danik-kek <99984285+Danik-kek@users.noreply.github.com>
+Date:   Thu Sep 3 10:29:28 2026 +0300
+
+    Initial commit
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	otchet.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
